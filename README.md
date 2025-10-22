@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de imagens realistas com Gemini 
 
 ## 📒 Descrição
 Este projeto teve como objetivo criar uma imagem realista e natural utilizando inteligência artificial. A proposta foi gerar uma fotografia que parecesse ter sido tirada por uma câmera comum, retratando duas crianças de mãos dadas, de forma espontânea e com aparência autêntica. O foco principal foi preservar a naturalidade e a emoção do momento, evitando qualquer aspecto artificial ou de estúdio.
