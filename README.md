@@ -18,7 +18,7 @@ Após definir o prompt, o texto foi inserido no Gemini, que processou as instru�
 ## 🚀 Resultados
 O resultado foi uma imagem extremamente realista, que transmite leveza e espontaneidade. As crianças aparecem com expressões naturais, a iluminação é suave e o cenário mantém a simplicidade e autenticidade de uma foto cotidiana. O projeto cumpriu seu propósito de criar algo “natty” ou seja, com aparência genuína, sem exageros de edição.
 
-![Resultado da imagem](./imagem_final/gemini_crianças.ppg)
+![Resultado da imagem](./imagem_final/gemini_crianças.png)
 
 ## 💭 Reflexão (Opcional)
 Criar algo natural usando IA é um desafio interessante. Exige atenção aos detalhes do prompt e um bom equilíbrio entre descrição técnica e sensibilidade estética. Trabalhar com o Gemini foi uma ótima experiência para entender como a inteligência artificial pode gerar imagens realistas quando guiada com clareza e propósito.
